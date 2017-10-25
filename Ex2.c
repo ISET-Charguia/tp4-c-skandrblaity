@@ -13,8 +13,8 @@ int main()
 	{
 		printf("Saisie T[%d]",i);
 		scanf("%d",&T[i]);
+			}
 		if (T[i]>=0)
-	}
 	for (i=0;i<n;i++)
 	{
 		{
